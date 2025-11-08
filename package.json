@@ -1,7 +1,7 @@
 {
   "name": "earwego",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -33,8 +33,8 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
+    "@emailjs/browser": "^4.1.0",
     "aos": "^2.3.4",
-    "emailjs-com": "^3.2.0",
     "glob": "^11.0.3",
     "lucide-react": "^0.539.0",
     "mkdirp": "^3.0.1",
